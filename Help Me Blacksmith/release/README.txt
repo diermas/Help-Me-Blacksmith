@@ -1,0 +1,1 @@
+The game runs on Windoes 64-bit.

@@ -1,0 +1,18 @@
+The game was made with Unreal Engine version 4.23.0.
+
+Asset License:
+
+	Wood1 - https://opengameart.org/content/wood-texture-tiles
+	Wood 2 - https://opengameart.org/content/wood-texture-tiles
+Author: JCW
+
+	Smole Explosion - https://opengameart.org/content/wood-texture-tiles
+Author: LIXING
+
+	Banging Fist (Animation)
+	Seated Idle (Animation)
+Website: MIXAMO
+	 https://www.mixamo.com/#/?page=3&query=sitting
+
+
+Audio - Stuard Cunningham
